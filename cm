@@ -6,3 +6,4 @@ git commit -m "$1"
 git tag $2
 git push origin $2
 
+echo Hello
